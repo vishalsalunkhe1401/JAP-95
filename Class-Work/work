@@ -1,0 +1,14 @@
+n=1 count=1
+n=2 count=3
+n=3 count=6
+n=4 count=10
+n=5 count=15
+n=10 count=55
+
+
+int count(n*(n+1))/2)
+
+int count=5;
+for(int i=1;i<=5;i++){
+	count+=i;
+}
